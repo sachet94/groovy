@@ -1,4 +1,5 @@
-//Operators : Are sysmbols that tell the compiler to perform specific operations and these can be arithmetic add substract divide greater less than.
+//Operators : Are sysmbols that tell the compiler to perform specific operations and these can be arithmetic add, substract,divide,
+              greater less than.
 
 //Arithematic Operator
 /* + = add; - = substract; * = multiply; / = divide; % = remainder; ** = power. intdiv = interger division.
